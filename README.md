@@ -1,7 +1,7 @@
 # Base-Operations
 Technical Assessment
 
-The project assignment contains 7 files. 
+The project assignment contains 8 files. 
 - [ ] File name ‘BaseOperations.ipynb’ contains the python code for the assignment.  
 - [ ] File name ‘BaseOperationsAWS.ipynb’ suggest how the code would run in AWS cloud. Here it is assumed that AWS cloud would be use for data engineering and ETL purposes.
 - [ ] File ‘Data Warehouse Architecture.png’ contains a data warehouse structure. A similar architecture can be used by BaseOperations. This is just a potential architecture design where assumptions have been made wrt data sources, data crawling to staging area and parsing data into different layers. It is assumed that AWS Glue would be used for ETL purposes.
